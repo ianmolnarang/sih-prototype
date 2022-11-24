@@ -1,6 +1,6 @@
 # Nirmal Bharat
 SIH Final project- Nirmal Bharat
-
+# Note: This is just a prototype, not a final product.
 # Problem Statement
 Suggest a solution to help municipal bodies maximise solid waste collection with their given resources.
 
@@ -23,6 +23,10 @@ This is a WebApp which contains 3 tabs
 https://user-images.githubusercontent.com/64737847/187531303-6e8c066a-159a-40a3-b7d0-c13393a75228.mp4
 
 
+https://user-images.githubusercontent.com/76910737/203711679-189b2bdb-f88b-4ef3-9388-1de97ae6dc75.mp4
+
+
+
 # Solution (Prototype)
 We will give users reward to dispose the solid waste and then convert those rewards into deduction of water bill. 
 
@@ -43,6 +47,7 @@ We will give users reward to dispose the solid waste and then convert those rewa
 
 # Conclusion
 Although we didn't win in Grand Finale Of Smart India Hackathon but we learnt many things along the process and we wish to carry forward this project without any hesitaion because we feel this idea holds something and have the capability to bring a change in the world.
+
 Some learnings are:
 1. Idea with best approach over anything. 
 2. Be Practical over Theoritical.
