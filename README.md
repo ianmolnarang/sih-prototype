@@ -1,5 +1,38 @@
-# Nirmal Bharat
-SIH Final project- Nirmal Bharat
+
+## Nirmal Bharat Application
+
+
+ • **निर्मल** • (nirmal) (indeclinable)
+ **pure**, **clean** 
+
+The solid wastes have become a major consequence of development, modernization, and urbanization. The solid wastes affect the natural environment and pose a serious threat as these materials remain in one place or a relatively longer period unless removed, burned, or washed away. In this respect solid waste has been identified as significant matter for sustainable development. Growth in population and change in lifestyle has led to an increase In solid waste generation. Both the residential and commercial waste are in solid or semi solid form Safe and cost-effective solid waste management is a great challenge for the modern society.
+
+**It is estimated that 40% of the waste remains uncollected.**
+
+This project aims for a technical solution for the management of solid wastes by providing **visibility on city sanitation, route planning for garbage collection, resource optimization, visibility of bins to maximize waste collection.**
+## What we doing?
+
+
+We aim to build **connection, communication, and collaboration(3C’s)** between the **Users** and the **Municipal Corporation** in a technical way by making an app. 
+## Features
+
+• **Schedule Garbage Pick-up**: Users can book or schedule the picking of garbage with the app by submitting a photo and quantity of waste.
+
+• **Earn Credits**: Users earn credits by using the app and can convert them into coupons for discounts on bills.
+
+• **Live Garbage Truck Tracking**: Track garbage truck location for accurate arrival times and reduce noise pollution with an alarm system.
+
+• **Dynamic Route Planning**: The app provides the shortest and most efficient route for garbage trucks.
+
+• **Resource Management with Machine Learning**: The app identifies areas with increasing solid waste and manages labor and truck resources.
+
+• **Payment Gateway**: Users can pay for services via the app.
+
+• **Complaint for Credits**: Users can report contaminated areas and receive credits for successful complaints.
+
+• **Refer and Earn**: Users can earn credits by inviting others to use the app.
+
+
 # Note: This is just a prototype, not a final product.
 # Problem Statement
 Suggest a solution to help municipal bodies maximise solid waste collection with their given resources.
@@ -9,13 +42,6 @@ This is a WebApp which contains 3 tabs
 1. Admin (Municipal corporation)
 2. Employee (Curbside Truck driver)
 3. User (People like us)
-
-# Features
-1. Credits: Admin will some send credits to user on the basis of how much solid waste he/she gives to curbside truck driver. These credits will later on be used to deduct water bill or house tax.
-2. Schedule The Pickup: There is also a option of sending pickup request for solid waste. Curbside truck will come to pick your solid waste only after getting a full-proof photo of solid waste.
-3. Live-Tracking: User can track the curbside truck so that if he/she misses the truck then they would be able to catch it soon. Admin can see all the curbside truck on map as well.
-4. Dynammic Route Planning: Developed a feacture to plan the route of the curbside truck dynamically.
-5. Checking Waste: Feature to check wheather the solid waste is Biodegradable or Non-Biodegradable.
 
 
 
